@@ -18,7 +18,8 @@ I am a DevOps engineer skilled in Kubernetes, AWS, Istio, Terraform,  Golang and
 * **[Pin Event] (https://pinevent.ai)**:
    Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
 
-*   **[Tofugu and Toaster](https://github.com/alt-dima/tofugu)**: Infrastructure layers configuration orchestrator for OpenTofu or Terraform (With built-in File-based Infrastructure layers configuration Storage. [(Inventory Files)](https://github.com/alt-dima/tofugu?tab=readme-ov-file#file-based-infrastructure-layers-configuration-storage-inventory-files))
+*   **[Tofugu and Toaster](https://github.com/alt-dima/tofugu)**:
+    *   **Tofugu-CLI** Infrastructure layers configuration orchestrator for OpenTofu or Terraform (With built-in File-based Infrastructure layers configuration Storage. [(Inventory Files)](https://github.com/alt-dima/tofugu?tab=readme-ov-file#file-based-infrastructure-layers-configuration-storage-inventory-files))
     *  **Toaster-DB** Infrastructure layers Configuration Management Database (CMDB): HTTP API Server for interacting with MongoDB as storage for Infrastructure layers Configuration (instead of file-based inventory storage implemented in Tofugu)
     *   **[Toaster-UI](https://toaster.altuhov.su/dashboard)** Web-UI for managing inventory storage (dimensions) in Toaster-DB. [Demo Dashboard](https://toaster.altuhov.su/dashboard)
 *   **[Configuration Comparer for Kong](https://github.com/alt-dima/configuration-comparer-for-kong)**: A utility to compare Kong Gateway configurations between different environments.

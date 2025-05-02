@@ -15,7 +15,7 @@ I am a DevOps engineer skilled in Kubernetes, AWS, Istio, Terraform,  Golang and
 
 ## Projects
 
-* **[Pin Event] (https://pinevent.ai)**:
+*  **[Pin Event](https://pinevent.ai)**:
    Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
 
 *   **[Tofugu and Toaster](https://github.com/alt-dima/tofugu)**:

@@ -2,23 +2,23 @@ I am a DevOps engineer skilled in Kubernetes, AWS, Istio, Terraform,  Golang and
 
 ## Skills
 
-*   DevOps
-*   Kubernetes
-*   AWS
-*   Istio
-*   Terraform
-*   Golang
-*   NodeJS
-*   NextJS
-*   React
-*   API
+*   Senior DevOps
+*   Kubernetes (CKA)
+*   Could (AWS, GCP, Scaleway)
+*   Service Mesh (Istio, Kong Mesh, Kuma, Consul Mesh)
+*   HashiCorp (Terraform, Vault, Consul)
+*   Programming/scripting languages: Go, JavaScript (Node.js, Next.js, React), Python, Bash
+*   API Gateways/ingress (Kong, Envoy/Ambassador/Emissary-Ingress/Kuma)
+*   Databases (SQL/MySQL/PostgreSQL, MongoDB, DynamoDB, Redis)
+*   DNS, LoadBalancing (Route53, CloudFlare, nginx, HAProxy, ingress)
+*   RESTful API
 
 ## Projects
 
 *  **[Pin Event](https://pinevent.ai)**:
-    * Pin Event: Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
-    * Search For Events: Use the search to find lost items, sightings, or other events pinned near you. View photos and map locations to see what is happening.
-    * Admin: Web-UI for events management
+    * **Pin Event**: Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
+    * **Search For Events**: Use the search to find lost items, sightings, or other events pinned near you. View photos and map locations to see what is happening.
+    * **Admin**: Web-UI for events management
 
 *   **[Tofugu and Toaster](https://toaster.altuhov.su/)**:
     *   **[Tofugu-CLI](https://github.com/alt-dima/tofugu)** Infrastructure layers configuration orchestrator for OpenTofu or Terraform (With built-in File-based Infrastructure layers configuration Storage. [(Inventory Files)](https://github.com/alt-dima/tofugu?tab=readme-ov-file#file-based-infrastructure-layers-configuration-storage-inventory-files))

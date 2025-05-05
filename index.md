@@ -1,16 +1,3 @@
-## Skills
-
-*   Senior DevOps
-*   Kubernetes (CKA)
-*   Could (AWS, GCP, Scaleway)
-*   Service Mesh (Istio, Kong Mesh, Kuma, Consul Mesh)
-*   HashiCorp (Terraform, Vault, Consul)
-*   Programming/scripting languages: Go, JavaScript (Node.js, Next.js, React), Python, Bash
-*   API Gateways/ingress (Kong, Envoy/Ambassador/Emissary-Ingress/Kuma)
-*   Databases (SQL/MySQL/PostgreSQL, MongoDB, DynamoDB, Redis)
-*   DNS, LoadBalancing (Route53, CloudFlare, nginx, HAProxy, ingress)
-*   RESTful API
-
 ## Projects
 
 *  **[Pin Event](https://pinevent.ai)**:
@@ -27,6 +14,19 @@
     * **[go-entrypoint-updater](https://github.com/alt-dima/go-entrypoint-updater)**: Updater for **go-entrypoint** on k8s nodes
 *   **[filebeat-proxysql-module](https://github.com/alt-dima/filebeat-proxysql-module)**: Simple Filebeat module for parsing ProxySQL logs and ship them to ElasticSearch
 *   **[pupproxy](https://github.com/alt-dima/pupproxy)**: Simple demo project for scaping web pages trought requets to API web-server and Puppeteer/Chrome
+
+## Skills
+
+*   Senior DevOps
+*   Kubernetes (CKA)
+*   Could (AWS, GCP, Scaleway)
+*   Service Mesh (Istio, Kong Mesh, Kuma, Consul Mesh)
+*   HashiCorp (Terraform, Vault, Consul)
+*   Programming/scripting languages: Go, JavaScript (Node.js, Next.js, React), Python, Bash
+*   API Gateways/ingress (Kong, Envoy/Ambassador/Emissary-Ingress/Kuma)
+*   Databases (SQL/MySQL/PostgreSQL, MongoDB, DynamoDB, Redis)
+*   DNS, LoadBalancing (Route53, CloudFlare, nginx, HAProxy, ingress)
+*   RESTful API
 
 ## Contact
 

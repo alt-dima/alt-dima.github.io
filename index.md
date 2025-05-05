@@ -1,5 +1,3 @@
-Highly experienced (since 2001) Senior DevOps engineer specializing in cloud-native technologies. Certified in Kubernetes (CKA) with expertise across AWS, GCP, Scaleway, various Service Mesh implementations (Istio, Kong, Kuma, Consul), and HashiCorp tools (Terraform, Vault, Consul). Skilled in Go, JavaScript, Python, Bash, and managing APIs, databases, DNS, and load balancing.
-
 ## Skills
 
 *   Senior DevOps

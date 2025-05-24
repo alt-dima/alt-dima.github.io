@@ -1,9 +1,9 @@
 ## Projects
 
 *  **[Pin Event](https://pinevent.ai)**:
-    * **Pin Event**: Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
-    * **Search For Events**: Use the search to find lost items, sightings, or other events pinned near you. View photos and map locations to see what is happening.
-    * **Admin**: Web-UI for events management
+    * **[Pin Event](https://pinevent.ai/)**: Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
+    * **[Search For Events](https://pinevent.ai/search)**: Use the search to find lost items, sightings, or other events pinned near you. View photos and map locations to see what is happening.
+    * **[Admin Interface](https://pinevent.ai/admin)**: Web-UI for Events Management
 
 *   **[Tofugu and Toaster](https://toaster.altuhov.su/)**:
     *   **[Tofugu-CLI](https://github.com/alt-dima/tofugu)** Infrastructure layers configuration orchestrator for OpenTofu or Terraform (With built-in File-based Infrastructure layers configuration Storage. [(Inventory Files)](https://github.com/alt-dima/tofugu?tab=readme-ov-file#file-based-infrastructure-layers-configuration-storage-inventory-files))

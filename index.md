@@ -32,3 +32,4 @@
 
 *   [LinkedIn](https://www.linkedin.com/in/altuhov/)
 *   Email: dima@altuhov.su
+*   [Schedule a meeting](https://cal.com/altuhov.su)

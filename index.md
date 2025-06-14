@@ -1,5 +1,7 @@
 ## Projects
 
+*   **[Simple HPA PreScaler for Kubernetes
+](https://github.com/alt-dima/prescaler)**: Prescale/ScaleUp your HPAs in Kubernetes minutes before regular spikes of load/traffic (like on round hours) and let HPA do the rest after (to continue scale up or scale down after spike).
 *  **[Pin Event](https://pinevent.ai)**:
     * **[Pin Event](https://pinevent.ai/)**: Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
     * **[Search For Events](https://pinevent.ai/search)**: Use the search to find lost items, sightings, or other events pinned near you. View photos and map locations to see what is happening.

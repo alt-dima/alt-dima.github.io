@@ -2,10 +2,7 @@
 
 *   **[Simple HPA PreScaler for Kubernetes
 ](https://github.com/alt-dima/prescaler)**: Prescale/ScaleUp your HPAs in Kubernetes minutes before regular spikes of load/traffic (like on round hours) and let HPA do the rest after (to continue scale up or scale down after spike).
-*  **[Pin Event](https://pinevent.ai)**:
-    * **[Pin Event](https://pinevent.ai/)**: Report lost items or local sightings easily. Snap a photo, choose a category, and let our AI analyze the image and location, automatically adding relevant tags.
-    * **[Search For Events](https://pinevent.ai/search)**: Use the search to find lost items, sightings, or other events pinned near you. View photos and map locations to see what is happening.
-    * **[Admin Interface](https://pinevent.ai/admin)**: Web-UI for Events Management
+*  **[Pin Event](https://pinevent.ai)**: AI-powered web app that discovers events and creates personalized schedules. Built with Next.js and Google Gemini AI.
 
 *   **[Tofugu and Toaster](https://toaster.altuhov.su/)**:
     *   **[Tofugu-CLI](https://github.com/alt-dima/tofugu)** Infrastructure layers configuration orchestrator for OpenTofu or Terraform (With built-in File-based Infrastructure layers configuration Storage. [(Inventory Files)](https://github.com/alt-dima/tofugu?tab=readme-ov-file#file-based-infrastructure-layers-configuration-storage-inventory-files))

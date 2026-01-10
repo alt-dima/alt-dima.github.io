@@ -7,7 +7,7 @@
 *   **[Tofugu and Toaster](https://toaster.altuhov.su/)**:
     *   **[Tofugu-CLI](https://github.com/alt-dima/tofugu)** Configuration management CLI for OpenTofu and Terraform with built-in file-based storage. Manage infrastructure across multiple environments without code duplication. [(Inventory Files)](https://github.com/alt-dima/tofugu?tab=readme-ov-file#file-based-infrastructure-layers-configuration-storage-inventory-files)
     *  **Toaster-DB** Configuration Management Database (CMDB): RESTful API server with OpenAPI specification for managing infrastructure configurations in MongoDB storage (replaces file-based inventory)
-    *   **[Toaster-UI](https://toaster.altuhov.su/)** Configuration Management Console - Web interface for centrally managing infrastructure configurations stored in Toaster-DB. [Try Demo Console](https://toaster.altuhov.su/console)
+    *   **[Toaster-UI](https://toaster.altuhov.su/)** Configuration Management Console - Web interface for centrally managing infrastructure configurations stored in Toaster-DB. Live Demo Console available!
 *   **[Configuration Comparer for Kong](https://github.com/alt-dima/configuration-comparer-for-kong)**: A utility to compare Kong Gateway configurations between different environments.
 *   **[go-entrypoint](https://github.com/alt-dima/go-entrypoint)**: A tiny and fast init process for containerized applications [(espesically Node.js)](https://github.com/nodejs/docker-node/blob/main/docs/BestPractices.md#handling-kernel-signals).
     * **[go-entrypoint-updater](https://github.com/alt-dima/go-entrypoint-updater)**: Updater for **go-entrypoint** on k8s nodes

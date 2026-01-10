@@ -4,3 +4,11 @@ description: Sr DevOps (2001+ exp). Cloud-native/K8s(CKA). AWS/GCP/Scaleway, Ser
 show_downloads: false
 google_analytics: G-NWHFQ803VQ
 theme: jekyll-theme-minimal
+
+# SEO and Social Media
+author: Dima Altukhov
+url: "https://www.altuhov.su"
+baseurl: ""
+twitter_username: altuhov
+github_username: alt-dima
+linkedin_username: altuhov

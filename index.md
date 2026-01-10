@@ -1,3 +1,12 @@
+---
+layout: default
+title: Dima Altukhov - Senior DevOps Engineer
+description: Senior DevOps Engineer with 20+ years experience. Kubernetes, AWS/GCP/Scaleway, Service Mesh, HashiCorp tools. Go, JavaScript, Python, Bash developer.
+keywords: DevOps, Kubernetes, AWS, GCP, Terraform, Docker, CI/CD, Site Reliability Engineering, SRE, Cloud Native, Infrastructure as Code
+author: Dima Altukhov
+image: /assets/img/logo.jpeg
+---
+
 ## Projects
 
 *   **[Simple HPA PreScaler for Kubernetes

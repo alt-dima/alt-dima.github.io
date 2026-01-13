@@ -11,9 +11,9 @@ image: /assets/img/logo.jpeg
 
 *   **[Simple HPA PreScaler for Kubernetes
 ](https://github.com/alt-dima/prescaler)**: Prescale/ScaleUp your HPAs in Kubernetes minutes before regular spikes of load/traffic (like on round hours) and let HPA do the rest after (to continue scale up or scale down after spike).
-*  **[Pin Event](https://pinevent.ai)**: AI-powered web app that discovers events and creates personalized schedules. Built with Next.js and Google Gemini AI.
+*  **[Pin Event](https://pinevent.ai)** [LinkedIn](https://www.linkedin.com/company/pinevent-ai/): AI-powered web app that discovers events and creates personalized schedules. Built with Next.js and Google Gemini AI.
 
-*   **IaCConsole**:
+*   **IaCConsole** [LinkedIn](https://www.linkedin.com/company/iacconsole/):
 	*   **[IaCConsole CLI](https://github.com/alt-dima/iacconsole-cli)** Open-source configuration management CLI for OpenTofu and Terraform with built-in file-based storage. Manage infrastructure across multiple environments without code duplication. [(Inventory Files)](https://github.com/alt-dima/iacconsole-cli?tab=readme-ov-file#file-based-infrastructure-layers-configuration-storage-inventory-files)
 	*  **[IaCConsole API (CMDB)](https://api.iacconsole.com)**: OpenAPI-powered REST API for centralized configuration management (replaces file-based inventory)
 	*   **[IaCConsole Web UI](https://iacconsole.com/)** Configuration Management Console - Web interface for centrally managing infrastructure configurations stored in the CMDB. Live Demo Console available!
@@ -40,4 +40,4 @@ image: /assets/img/logo.jpeg
 
 *   [LinkedIn](https://www.linkedin.com/in/altuhov/)
 *   Email: dima@altuhov.su
-*   [Schedule a meeting](https://cal.com/altuhov.su)
+*   [Schedule a meeting](https://cal.com/altuhov.su/15min)

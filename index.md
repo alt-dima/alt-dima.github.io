@@ -22,6 +22,8 @@ image: /assets/img/logo.jpeg
 - **[Filebeat ProxySQL Module](https://github.com/alt-dima/filebeat-proxysql-module)**: A specialized Filebeat module for parsing ProxySQL logs and shipping them to Elasticsearch.
 - **[PuppyProxy - Web Scraping API with Puppeteer](https://github.com/alt-dima/pupproxy)**: A demo project for scraping web pages via a REST API using Puppeteer and Headless Chrome.
 
+### [Donate / Support Open Source Projects](https://paypal.me/altuhovsu?locale.x=en_US&country.x=IL)
+
 ## Skills
 
 - Senior DevOps & Platform Engineering

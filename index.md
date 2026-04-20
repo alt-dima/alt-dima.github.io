@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Senior DevOps & Cloud Engineer
-description: Senior DevOps Engineer with 20+ years of experience in Kubernetes, AWS/GCP, Service Mesh, and HashiCorp tools. Expert in Infrastructure as Code (IaC) and Go/JavaScript/Python development.
+description: Senior DevOps Engineer with 20+ years in Kubernetes, AWS/GCP, Service Mesh, HashiCorp tools, IaC, and Go/JavaScript/Python development expertise
 keywords: DevOps Engineer, Kubernetes Expert, Cloud Infrastructure, Terraform, IaC, OpenTofu, SRE, Site Reliability Engineering, CI/CD, Go Developer, Platform Engineering, Multilingual SEO
 author: Dima Altukhov
 image: /assets/img/logo.jpeg
